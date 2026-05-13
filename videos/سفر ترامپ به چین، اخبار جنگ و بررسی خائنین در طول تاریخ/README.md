@@ -8,7 +8,7 @@
 |----------|-------|
 | **Video Name** | `سفر ترامپ به چین، اخبار جنگ و بررسی خائنین در طول تاریخ` |
 | **Original Link** | [YouTube Video](https://www.youtube.com/watch?v=3mhpUj-ULFg) |
-| **Total Size** | **4 zip parts** - **321.66 MB** |
+| **Total Size** | **4 zip parts** - **353.89 MB** |
 | **Quality** | **480** |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
