@@ -1,0 +1,35 @@
+# جواب چین به ترامپ
+
+---
+
+## Video Information
+
+| Property | Value |
+|----------|-------|
+| **Video Name** | `جواب چین به ترامپ` |
+| **Original Link** | [YouTube Video](https://www.youtube.com/v/ordKQ6ueiXo) |
+| **Total Size** | **2 zip parts** - **171.08 MB** |
+| **Quality** | **480** |
+| **Status** | **Complete (100%)** |
+| **Password Protected** | **NO** |
+
+---
+
+## Download Links
+
+| # | File | Link |
+|---|------|------|
+| 1 | `جواب چین به ترامپ.z01` | [Download](https://github.com/abolsub/my-private-2/raw/main/videos/%D8%AC%D9%88%D8%A7%D8%A8%20%DA%86%DB%8C%D9%86%20%D8%A8%D9%87%20%D8%AA%D8%B1%D8%A7%D9%85%D9%BE/%D8%AC%D9%88%D8%A7%D8%A8%20%DA%86%DB%8C%D9%86%20%D8%A8%D9%87%20%D8%AA%D8%B1%D8%A7%D9%85%D9%BE.z01) |
+| 2 | `جواب چین به ترامپ.zip` | [Download](https://github.com/abolsub/my-private-2/raw/main/videos/%D8%AC%D9%88%D8%A7%D8%A8%20%DA%86%DB%8C%D9%86%20%D8%A8%D9%87%20%D8%AA%D8%B1%D8%A7%D9%85%D9%BE/%D8%AC%D9%88%D8%A7%D8%A8%20%DA%86%DB%8C%D9%86%20%D8%A8%D9%87%20%D8%AA%D8%B1%D8%A7%D9%85%D9%BE.zip) |
+
+---
+
+## How to Extract
+
+1. **Download** all `.zip` and `.z01`, `.z02`... files
+2. **Extract** using [7-Zip](https://www.7-zip.org/) or [WinRAR](https://www.rarlab.com/)
+3. Open the `.zip` file - all parts will combine automatically
+
+---
+
+*This tool created by [avasam.ir](https://avasam.ir)*
